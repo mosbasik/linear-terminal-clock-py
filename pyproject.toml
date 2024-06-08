@@ -1,9 +1,11 @@
 [tool.poetry]
 name = "linear-terminal-clock"
 version = "0.1.0"
-description = ""
+description = "Abstract terminal clock anchored to the sun"
 authors = ["Peter Henry <me@peterhenry.net>"]
 readme = "README.md"
+homepage = "https://github.com/mosbasik/linear-terminal-clock"
+repository = "https://github.com/mosbasik/linear-terminal-clock"
 
 [tool.poetry.dependencies]
 python = "^3.9"
